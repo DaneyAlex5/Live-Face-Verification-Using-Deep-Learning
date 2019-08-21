@@ -1,4 +1,4 @@
-# -Face-Verification-Using-Deep-Learning
+# Live-Face-Verification-Using-Deep-Learning
 
 Face Detection and landmark detection : It is done using Multi-task Cascaded Convolutional Networks(MTCNN) model. Used a pretrained model of MTCNN to detect face, to find the bounding box and landmark detection.
 Reference : https://arxiv.org/pdf/1604.02878.pdf
